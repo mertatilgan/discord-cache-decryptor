@@ -2,7 +2,11 @@
 
 Discord Cache Decrypter is a simple python script that allows you to change all discord's cache files into the PNG format.
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Required Libraries
+This simple project now needs colorama. To download colorama, you can use the pip module.
+```
+pip install colorama
+```
 
-Please make sure to update tests as appropriate.
+## Contributing
+Pull requests are welcome.
